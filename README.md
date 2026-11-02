@@ -67,6 +67,6 @@ Redesigned the official website of DOATAP (Hellenic NARIC), focusing on UX Desig
 
 ## Authors
 
-* **Sergios - Anestis Kefalidis** ([@SKefalidis](https://github.com/SKefalidis))
-* **Eleftheria Lagkoni** ([@elagkoni](https://github.com/elagkoni))
+* [Sergios - Anestis Kefalidis](https://github.com/SKefalidis)
+* [Eleftheria Lagkoni](https://github.com/elagkoni)
 
